@@ -2,7 +2,7 @@
 
 Implementing infinite scroll and image lazy loading with the `HTML` `IntersectionObserver` API.
 
-Tasks pending:
+_Tasks pending:_
 - Analyzing performance boost on lazy loading
 - Further optimizing image content render
 

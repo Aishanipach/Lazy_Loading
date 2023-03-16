@@ -1,4 +1,4 @@
-# Infinite scroll + image lazy loading
+# Infinite scroller♾️
 
 Implementing infinite scroll and image lazy loading with the `HTML` `IntersectionObserver` API.
 
@@ -30,7 +30,7 @@ let target = document.querySelector("#targetId");
 intObserver.observe(target); // start observation
 ```
 
-## Quick start guide
+## Get started
 
 1. Clone the repo
 1. Run `yarn` to install the project dependencies
